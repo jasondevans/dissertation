@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DissertationExperiment", "DissertationExperiment\DissertationExperiment.vcxproj", "{8EB2DAD2-41EE-4C37-8321-21EC43FE6A8F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FTPClient", "FTPClient\FTPClient.vcxproj", "{4AA7D39C-133F-4706-BFF5-92117CA4E7E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Distributable|Win32 = Distributable|Win32
+		Distributable|x64 = Distributable|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EB2DAD2-41EE-4C37-8321-21EC43FE6A8F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8EB2DAD2-41EE-4C37-8321-21EC43FE6A8F}.Debug|Win32.Build.0 = Debug|Win32
+		{8EB2DAD2-41EE-4C37-8321-21EC43FE6A8F}.Debug|x64.ActiveCfg = Debug|Win32
+		{8EB2DAD2-41EE-4C37-8321-21EC43FE6A8F}.Distributable|Win32.ActiveCfg = Distributable Release|Win32
+		{8EB2DAD2-41EE-4C37-8321-21EC43FE6A8F}.Distributable|Win32.Build.0 = Distributable Release|Win32
+		{8EB2DAD2-41EE-4C37-8321-21EC43FE6A8F}.Distributable|x64.ActiveCfg = Release|Win32
+		{8EB2DAD2-41EE-4C37-8321-21EC43FE6A8F}.Distributable|x64.Build.0 = Release|Win32
+		{8EB2DAD2-41EE-4C37-8321-21EC43FE6A8F}.Release|Win32.ActiveCfg = Release|Win32
+		{8EB2DAD2-41EE-4C37-8321-21EC43FE6A8F}.Release|Win32.Build.0 = Release|Win32
+		{8EB2DAD2-41EE-4C37-8321-21EC43FE6A8F}.Release|x64.ActiveCfg = Release|Win32
+		{4AA7D39C-133F-4706-BFF5-92117CA4E7E8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4AA7D39C-133F-4706-BFF5-92117CA4E7E8}.Debug|Win32.Build.0 = Debug|Win32
+		{4AA7D39C-133F-4706-BFF5-92117CA4E7E8}.Debug|x64.ActiveCfg = Debug|x64
+		{4AA7D39C-133F-4706-BFF5-92117CA4E7E8}.Debug|x64.Build.0 = Debug|x64
+		{4AA7D39C-133F-4706-BFF5-92117CA4E7E8}.Distributable|Win32.ActiveCfg = Debug|Win32
+		{4AA7D39C-133F-4706-BFF5-92117CA4E7E8}.Distributable|Win32.Build.0 = Debug|Win32
+		{4AA7D39C-133F-4706-BFF5-92117CA4E7E8}.Distributable|x64.ActiveCfg = Debug|x64
+		{4AA7D39C-133F-4706-BFF5-92117CA4E7E8}.Distributable|x64.Build.0 = Debug|x64
+		{4AA7D39C-133F-4706-BFF5-92117CA4E7E8}.Release|Win32.ActiveCfg = Release|Win32
+		{4AA7D39C-133F-4706-BFF5-92117CA4E7E8}.Release|Win32.Build.0 = Release|Win32
+		{4AA7D39C-133F-4706-BFF5-92117CA4E7E8}.Release|x64.ActiveCfg = Release|x64
+		{4AA7D39C-133F-4706-BFF5-92117CA4E7E8}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

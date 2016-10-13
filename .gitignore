@@ -1,0 +1,13 @@
+**/.vs/
+**/out/
+**/obj/
+**/bin/
+*.VC.db
+*.VC.opendb
+*.vcxproj.user
+*.swp
+Archive/
+Debug/
+Distributable Release/
+Release/
+ipch/
